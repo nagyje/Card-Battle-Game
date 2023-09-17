@@ -1,4 +1,4 @@
-Rules for Surviving CSCI: 1260
+Rules for "Surviving CSCI 1260" (Card Battler)
 
 Enter a name for your student. 
 
